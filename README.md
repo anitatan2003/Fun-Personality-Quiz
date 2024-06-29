@@ -1,2 +1,2 @@
 # Fun-Personality-Quiz
-HTML, CSS &amp; JS
+Made with HTML, CSS &amp; JS.
